@@ -1,4 +1,4 @@
-### QATestLab-Course. Creating the test documentation
+### QATestLab Course. Creating the test documentation
 
 Testing the [Best friends](http://opencart.qatestlab.net/) website using checklists. The following types of testing were executed:
 1) Functional testing
